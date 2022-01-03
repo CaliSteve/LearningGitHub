@@ -3,7 +3,7 @@ This repository is to help me understand GIT source control
 
 In this repository I will explain how these work:
 * PUSH
-  - command: git push <remote> <branch>  
+  - command: git push &ltremote&rt &ltbranch&rt  
   - This command specifies that you are pushing to the main branch(the Main Repository branch) on origin(the Main Repository)
 * PULL
   - command: git pull <remote> <branch>
